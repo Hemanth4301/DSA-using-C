@@ -138,12 +138,15 @@ int main()
     start = addevent(start, 8, 3, "Maha Shivarathri");
     start = addevent(start, 10, 3, "Holi");
     start = addevent(start, 17, 3, "Ilaa ram's Birthday");
+    start = addevent(start, 20, 3, "Akash's Birthday");
     start = addevent(start, 20, 3, "Impana's Birthday");
     start = addevent(start, 26, 3, "Hina Shakya's Birthday");
     start = addevent(start, 30, 3, "Kishan Kumar's Birthday");
     start = addevent(start, 30, 3, "Hithesh ST's Birthday");
 
     // April
+       start = addevent(start, 3, 4, "Madhusudan's Biryhday");
+       start = addevent(start, 5, 4, "Arman's Biryhday");
     start = addevent(start, 22, 4, "Earth Day");
     start = addevent(start, 24, 4, "Keerthana SR's Birthday");
 
@@ -151,6 +154,7 @@ int main()
     start = addevent(start, 1, 5, "Labour's Day");
     start = addevent(start, 19, 5, "Mallakanna Suresh's Birthday");
     start = addevent(start, 21, 5, "Kanthashree's Birthday");
+      start = addevent(start, 22, 5, "Kishna Bansal's Birthday");
     start = addevent(start, 23, 5, "Harshith's Birthday");
     start = addevent(start, 24, 5, "Kiran's Birthday");
     start = addevent(start, 27, 5, "Mohan's Birthday");
@@ -160,6 +164,7 @@ int main()
     start = addevent(start, 4, 6, "Harshitha M's Birthday");
     start = addevent(start, 5, 6, "World Environment Day");
     start = addevent(start, 5, 6, "Nidhi Bhat's Birthday");
+    start = addevent(start, 5, 6, "Hanumantha Naik's Birthday");
     start = addevent(start, 6, 6, "Jathin's Birthday");
     start = addevent(start, 13, 6, "Aprameya's Birthday");
     start = addevent(start, 19, 6, "Komal's Birthday");
@@ -203,6 +208,7 @@ int main()
     start = addevent(start, 28, 10, "Deepwali");
 
     // November
+    start = addevent(start, 4, 11, "Hruthi's Birthday");
     start = addevent(start, 9, 11, "Lakshay Gupta's Birthday");
     start = addevent(start, 13, 11, "Krishna Patil's Birthday");
     start = addevent(start, 15, 11, "Harshith Sk's birthday");
